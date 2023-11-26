@@ -2,6 +2,8 @@
 
 Example of a .NET 6 API project (C#).
 
+PostgreSQL
+
 Migration:
 Add-Migration "migration name"
 Update-Database
